@@ -1,0 +1,9 @@
+C:\Users\alex.alves\Desktop\Projetos c#\Sistem-login-teste\Senac\obj\Debug\netstandard2.0\Senac.csprojAssemblyReference.cache
+C:\Users\alex.alves\Desktop\Projetos c#\Sistem-login-teste\Senac\obj\Debug\netstandard2.0\Senac.AssemblyInfoInputs.cache
+C:\Users\alex.alves\Desktop\Projetos c#\Sistem-login-teste\Senac\obj\Debug\netstandard2.0\Senac.AssemblyInfo.cs
+C:\Users\alex.alves\Desktop\Projetos c#\Sistem-login-teste\Senac\obj\Debug\netstandard2.0\Senac.csproj.CoreCompileInputs.cache
+C:\Users\alex.alves\Desktop\Projetos c#\Sistem-login-teste\Senac\bin\Debug\netstandard2.0\Senac.deps.json
+C:\Users\alex.alves\Desktop\Projetos c#\Sistem-login-teste\Senac\bin\Debug\netstandard2.0\Senac.dll
+C:\Users\alex.alves\Desktop\Projetos c#\Sistem-login-teste\Senac\bin\Debug\netstandard2.0\Senac.pdb
+C:\Users\alex.alves\Desktop\Projetos c#\Sistem-login-teste\Senac\obj\Debug\netstandard2.0\Senac.dll
+C:\Users\alex.alves\Desktop\Projetos c#\Sistem-login-teste\Senac\obj\Debug\netstandard2.0\Senac.pdb
